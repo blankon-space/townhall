@@ -1,0 +1,17 @@
+# Project
+*.pem
+.DS_Store
+.env*.local
+.env
+/.cache/
+/backup/
+
+# Dependencies
+node_modules
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
